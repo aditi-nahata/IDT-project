@@ -1,2 +1,2 @@
 # IDT-project
-Digital Land Records is a Python-based project that securely manages land records. It provides user authentication, record search, updates, verification, transaction logging, and secure data handling, ensuring transparency, accuracy, and efficient land record management.
+Digital Land Record Management System is a Python-based application designed to securely store and manage land ownership records. The system provides user authentication, record viewing, searching, updating, and verification features. It maintains transaction logs, supports secure data handling through encryption, and helps ensure transparency, accuracy, and efficient management of digital land records.
